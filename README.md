@@ -5,7 +5,6 @@ I build tools for people who work with coding agents.
 ## Tools
 
 - **[mid-flight](https://github.com/Abeansits/mid-flight)** — Ask another coding agent from inside the session you already have open.
-- **[sigil](https://github.com/Abeansits/sigil)** — An agent runs only with a seal of authority. The audit log can be checked.
 - **[ting](https://github.com/Abeansits/ting)** — Models propose, cross-examine, and revise. The dissent stays in the record.
 - **[kunskap](https://github.com/Abeansits/kunskap)** — Sessions file what they learned. A librarian compiles a wiki.
 - **[agent-radar](https://github.com/Abeansits/agent-radar)** — A menu-bar board of what your agents are doing right now.
