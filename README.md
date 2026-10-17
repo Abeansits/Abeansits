@@ -5,6 +5,7 @@ I build tools for people who work with coding agents.
 ## Tools
 
 - **[mid-flight](https://github.com/Abeansits/mid-flight)** — Ask another coding agent from inside the session you already have open.
+- **[awesome-muncher](https://github.com/Abeansits/awesome-muncher)** — A terminal UI for an awesome-list. It shows which projects are alive, stale, or abandoned.
 - **[ting](https://github.com/Abeansits/ting)** — Models propose, cross-examine, and revise. The dissent stays in the record.
 - **[kunskap](https://github.com/Abeansits/kunskap)** — Sessions file what they learned. A librarian compiles a wiki.
 - **[agent-radar](https://github.com/Abeansits/agent-radar)** — A menu-bar board of what your agents are doing right now.
